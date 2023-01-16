@@ -1,0 +1,3 @@
+/mnt/c/Users/huangzehua/OneDrive/Zoop/clang_reflect/test/buildTest/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/huangzehua/OneDrive/Zoop/clang_reflect/test/buildTest/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/huangzehua/OneDrive/Zoop/clang_reflect/test/buildTest/build/CMakeFiles/temple_test.dir
